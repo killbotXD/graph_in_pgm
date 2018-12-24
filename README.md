@@ -19,6 +19,6 @@ $ ./main "x*cos(x)"
 
 To test stack_method go into it and run commands (only polynomials are allowed)
 
-$ ./graph "x*x - 2*x + 1"
+$ ./graph "x* x - 2* x + 1"
 or
-$./graph "x*x*x"
+$./graph "x* x* x"
